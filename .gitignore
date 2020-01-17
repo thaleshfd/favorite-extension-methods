@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FavoriteExtensionMethods/FavoriteExtensionMethods/bin/Debug/netstandard2.0
+/FavoriteExtensionMethods/FavoriteExtensionMethods/obj
+/FavoriteExtensionMethods/.vs/FavoriteExtensionMethods/v15
